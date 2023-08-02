@@ -1,3 +1,3 @@
-static int subtract(int val1, val2) {
-    val1 - val2
+static int subtract(int m, n) {
+    m - n
 }
