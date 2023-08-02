@@ -1,3 +1,3 @@
-static int square(int base) {
-	base * base
+static int square(int number) {
+	number * number
 }
